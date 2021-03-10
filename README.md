@@ -32,3 +32,9 @@ Os limites só existem se você os deixar existir
 
 
 Listagem de jsons
+
+https://nerdtechapp.github.io/AuraPlay/server.js
+
+Manutenção 
+
+https://nerdtechapp.github.io/AuraPlay/update.js

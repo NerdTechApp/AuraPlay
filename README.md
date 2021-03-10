@@ -29,3 +29,8 @@ Os limites só existem se você os deixar existir
 - Precisamos do microfone para fazer pesquisas por voz em:
   - Pesquisar séries é filmes
   - Pesquisar séries é filmes
+
+
+Listagem de jsons
+
+ 
